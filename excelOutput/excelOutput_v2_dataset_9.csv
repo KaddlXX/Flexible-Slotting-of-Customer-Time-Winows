@@ -1,0 +1,71 @@
+CustomerId;Xcoord;Ycoord;CustomerType;SatisfactionStatus;ReasonForSatisfaction;PreferredTimeSlot;WillingnessToChangeTS;TimeslotId;TimeslotStart;TimeslotEnd;OrderPrice
+1;10;16;Stay-at-Home;Very Satisfied;Preferred Slot;09:30:00;False;8;09:30:00;10:00:00;normal
+2;9;20;Business;Very Satisfied;Preferred Slot;20:30:00;False;30;20:30:00;21:00:00;expensive
+3;4;16;Senior;Very Satisfied;Preferred Slot;14:00:00;True;17;14:00:00;14:30:00;normal
+4;9;15;Senior;Very Satisfied;Preferred Slot;07:00:00;False;3;07:00:00;07:30:00;normal
+5;3;13;Business;Very Satisfied;Preferred Slot;07:30:00;False;4;07:30:00;08:00:00;normal
+6;5;20;Student;Very Satisfied;Preferred Slot;16:30:00;True;22;16:30:00;17:00:00;normal
+7;17;7;Business;Dissatisfied;Not willing to change and canceled order;07:30:00;False;;;;
+8;12;15;Business;Very Satisfied;Preferred Slot;21:30:00;False;32;21:30:00;22:00:00;expensive
+9;9;6;Senior;Very Satisfied;Preferred Slot;14:30:00;True;18;14:30:00;15:00:00;normal
+10;4;19;Senior;Very Satisfied;Preferred Slot;12:30:00;True;14;12:30:00;13:00:00;normal
+11;20;17;Stay-at-Home;Dissatisfied;Not willing to change and canceled order;14:00:00;False;;;;
+12;16;15;Business;Very Satisfied;Preferred Slot;21:00:00;False;31;21:00:00;21:30:00;expensive
+13;6;7;Business;Very Satisfied;Preferred Slot;06:30:00;False;2;06:30:00;07:00:00;normal
+14;8;2;Senior;Very Satisfied;Preferred Slot;10:30:00;True;10;10:30:00;11:00:00;normal
+15;6;1;Stay-at-Home;Very Satisfied;Preferred Slot;08:30:00;True;6;08:30:00;09:00:00;normal
+16;1;1;Senior;Dissatisfied;Not willing to change and canceled order;12:30:00;False;;;;
+17;5;2;Stay-at-Home;Very Satisfied;Preferred Slot;09:00:00;True;7;09:00:00;09:30:00;cheap
+18;19;14;Business;Very Satisfied;Preferred Slot;06:00:00;False;1;06:00:00;06:30:00;normal
+19;2;13;Business;Dissatisfied;Not willing to change and canceled order;06:00:00;False;;;;
+20;6;16;Stay-at-Home;Very Satisfied;Preferred Slot;16:00:00;False;21;16:00:00;16:30:00;normal
+21;12;1;Student;Very Satisfied;Preferred Slot;19:30:00;False;28;19:30:00;20:00:00;normal
+22;1;2;Stay-at-Home;Satisfied;Suitable slot;08:30:00;True;9;10:00:00;10:30:00;normal
+23;7;8;Business;Dissatisfied;Not willing to change and canceled order;06:00:00;False;;;;
+24;18;9;Student;Satisfied;Suitable slot;21:30:00;True;29;20:00:00;20:30:00;expensive
+25;14;12;Stay-at-Home;Dissatisfied;Not willing to change and canceled order;16:30:00;False;;;;
+26;15;14;Student;Satisfied;Suitable slot;12:30:00;True;13;12:00:00;12:30:00;normal
+27;16;7;Business;Dissatisfied;Not willing to change and canceled order;06:30:00;False;;;;
+28;8;13;Business;Dissatisfied;Not willing to change and canceled order;21:00:00;False;;;;
+29;11;1;Senior;Very Satisfied;Preferred Slot;13:00:00;False;15;13:00:00;13:30:00;normal
+30;16;1;Student;Very Satisfied;Preferred Slot;19:00:00;False;27;19:00:00;19:30:00;normal
+31;15;11;Student;Very Satisfied;Preferred Slot;15:30:00;True;20;15:30:00;16:00:00;normal
+32;2;14;Senior;Satisfied;Suitable slot;09:00:00;True;5;08:00:00;08:30:00;cheap
+33;14;6;Business;Dissatisfied;Not willing to change and canceled order;07:30:00;False;;;;
+34;18;19;Stay-at-Home;Very Satisfied;Preferred Slot;11:30:00;False;12;11:30:00;12:00:00;normal
+35;6;15;Stay-at-Home;Satisfied;Suitable slot;10:00:00;True;11;11:00:00;11:30:00;normal
+36;14;9;Business;Dissatisfied;Not willing to change and canceled order;06:00:00;False;;;;
+37;2;15;Stay-at-Home;Satisfied;Suitable slot;15:30:00;True;19;15:00:00;15:30:00;normal
+38;18;12;Business;Dissatisfied;Not willing to change and canceled order;21:30:00;False;;;;
+39;2;18;Business;Dissatisfied;Not willing to change and canceled order;06:00:00;False;;;;
+40;6;13;Senior;Very Satisfied;Preferred Slot;13:30:00;False;16;13:30:00;14:00:00;normal
+41;12;3;Stay-at-Home;Very Satisfied;Preferred Slot;17:00:00;False;23;17:00:00;17:30:00;normal
+42;9;15;Stay-at-Home;Satisfied;Suitable slot;17:00:00;True;24;17:30:00;18:00:00;normal
+43;11;4;Student;Satisfied;Suitable slot;16:00:00;True;23;17:00:00;17:30:00;cheap
+44;16;20;Student;Satisfied;Suitable slot;19:00:00;True;26;18:30:00;19:00:00;normal
+45;16;5;Senior;Dissatisfied;Not willing to change and canceled order;13:30:00;False;;;;
+46;16;14;Stay-at-Home;Very Dissatisfied;Willing to change, but no cheap Slot available;08:00:00;True;;;;
+47;2;5;Stay-at-Home;Dissatisfied;Not willing to change and canceled order;09:30:00;False;;;;
+48;4;8;Business;Dissatisfied;Not willing to change and canceled order;06:00:00;False;;;;
+49;15;4;Business;Dissatisfied;Not willing to change and canceled order;21:00:00;False;;;;
+50;20;15;Student;Dissatisfied;Not willing to change and canceled order;21:00:00;False;;;;
+51;10;12;Senior;Very Dissatisfied;Willing to change, but no cheap Slot available;07:30:00;True;;;;
+52;13;2;Business;Dissatisfied;Not willing to change and canceled order;06:00:00;False;;;;
+53;19;9;Student;Dissatisfied;Not willing to change and canceled order;12:30:00;False;;;;
+54;13;15;Stay-at-Home;Very Dissatisfied;Willing to change, but no cheap Slot available;16:00:00;True;;;;
+55;19;14;Stay-at-Home;Dissatisfied;Not willing to change and canceled order;08:00:00;False;;;;
+56;8;11;Senior;Very Dissatisfied;Willing to change, but no cheap Slot available;13:30:00;True;;;;
+57;18;19;Senior;Satisfied;Suitable slot;09:00:00;True;12;11:30:00;12:00:00;cheap
+58;6;20;Student;Dissatisfied;Not willing to change and canceled order;13:00:00;False;;;;
+59;8;8;Senior;Very Dissatisfied;Willing to change, but no cheap Slot available;06:30:00;True;;;;
+60;16;19;Stay-at-Home;Very Dissatisfied;Willing to change, but no cheap Slot available;14:30:00;True;;;;
+61;10;3;Stay-at-Home;Dissatisfied;Not willing to change and canceled order;10:30:00;False;;;;
+62;14;8;Business;Dissatisfied;Not willing to change and canceled order;06:00:00;False;;;;
+63;10;14;Senior;Satisfied;Suitable slot;10:30:00;True;8;09:30:00;10:00:00;cheap
+64;1;8;Senior;Dissatisfied;Not willing to change and canceled order;13:30:00;False;;;;
+65;13;6;Senior;Very Dissatisfied;Willing to change, but no cheap Slot available;11:00:00;True;;;;
+66;18;4;Stay-at-Home;Very Dissatisfied;Willing to change, but no cheap Slot available;16:30:00;True;;;;
+67;6;18;Business;Dissatisfied;Not willing to change and canceled order;21:00:00;False;;;;
+68;19;17;Business;Dissatisfied;Not willing to change and canceled order;06:30:00;False;;;;
+69;1;11;Stay-at-Home;Very Dissatisfied;Willing to change, but no cheap Slot available;11:30:00;True;;;;
+70;10;6;Stay-at-Home;Dissatisfied;Not willing to change and canceled order;08:00:00;False;;;;

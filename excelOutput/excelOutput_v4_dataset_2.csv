@@ -1,0 +1,71 @@
+CustomerId;Xcoord;Ycoord;CustomerType;SatisfactionStatus;ReasonForSatisfaction;PreferredTimeSlot;WillingnessToChangeTS;TimeslotId;TimeslotStart;TimeslotEnd;OrderPrice
+1;8;20;Business;Very Satisfied;Suitable Slot;20:30:00;True;30;20:30:00;21:00:00;expensive
+2;16;1;Stay-at-Home;Very Satisfied;Suitable Slot;10:00:00;True;9;10:00:00;10:30:00;normal
+3;8;10;Student;Very Satisfied;Suitable Slot;21:30:00;True;32;21:30:00;22:00:00;expensive
+4;8;2;Business;Very Satisfied;Suitable Slot;06:30:00;True;2;06:30:00;07:00:00;normal
+5;1;8;Senior;Satisfied;Cheapest possible Slot;13:00:00;True;15;13:00:00;13:30:00;normal
+6;20;2;Business;Very Satisfied;Suitable Slot;21:00:00;True;31;21:00:00;21:30:00;expensive
+7;16;2;Student;Very Satisfied;Suitable Slot;18:30:00;True;26;18:30:00;19:00:00;normal
+8;13;12;Business;Very Satisfied;Suitable Slot;20:30:00;True;29;20:00:00;20:30:00;expensive
+9;1;14;Stay-at-Home;Satisfied;Cheapest possible Slot;11:00:00;True;11;11:00:00;11:30:00;normal
+10;8;10;Stay-at-Home;Very Satisfied;Suitable Slot;14:30:00;True;18;14:30:00;15:00:00;normal
+11;18;9;Senior;Satisfied;Cheapest possible Slot;09:00:00;True;7;09:00:00;09:30:00;normal
+12;17;19;Business;Very Satisfied;Suitable Slot;20:00:00;True;4;07:30:00;08:00:00;normal
+13;7;13;Student;Satisfied;Cheapest possible Slot;15:00:00;True;19;15:00:00;15:30:00;normal
+14;6;20;Senior;Satisfied;Cheapest possible Slot;13:00:00;True;14;12:30:00;13:00:00;normal
+15;9;11;Student;Very Satisfied;Suitable Slot;21:30:00;True;32;21:30:00;22:00:00;cheap
+16;3;6;Senior;Satisfied;Cheapest possible Slot;10:30:00;True;10;10:30:00;11:00:00;normal
+17;3;18;Stay-at-Home;Very Satisfied;Suitable Slot;15:30:00;True;20;15:30:00;16:00:00;normal
+18;2;14;Business;Very Satisfied;Suitable Slot;20:00:00;True;3;07:00:00;07:30:00;normal
+19;5;20;Business;Very Satisfied;Suitable Slot;21:30:00;True;1;06:00:00;06:30:00;normal
+20;13;18;Stay-at-Home;Very Satisfied;Suitable Slot;08:00:00;True;8;09:30:00;10:00:00;normal
+21;5;5;Business;Very Dissatisfied;Willing to change, but no Slot available;20:30:00;True;;;;
+22;2;19;Student;Satisfied;Cheapest possible Slot;20:00:00;True;21;16:00:00;16:30:00;cheap
+23;1;19;Student;Very Satisfied;Suitable Slot;13:00:00;True;16;13:30:00;14:00:00;normal
+24;12;19;Senior;Satisfied;Cheapest possible Slot;10:30:00;True;8;09:30:00;10:00:00;cheap
+25;15;8;Business;Very Dissatisfied;Willing to change, but no Slot available;07:00:00;True;;;;
+26;5;14;Business;Very Dissatisfied;Willing to change, but no Slot available;07:00:00;True;;;;
+27;13;9;Business;Very Dissatisfied;Willing to change, but no Slot available;21:00:00;True;;;;
+28;7;11;Stay-at-Home;Very Satisfied;Suitable Slot;10:30:00;True;12;11:30:00;12:00:00;normal
+29;11;12;Senior;Satisfied;Cheapest possible Slot;10:30:00;True;13;12:00:00;12:30:00;normal
+30;15;14;Senior;Satisfied;Cheapest possible Slot;13:00:00;True;17;14:00:00;14:30:00;normal
+31;11;19;Stay-at-Home;Satisfied;Cheapest possible Slot;08:00:00;True;22;16:30:00;17:00:00;normal
+32;13;16;Student;Satisfied;Cheapest possible Slot;21:30:00;True;28;19:30:00;20:00:00;normal
+33;2;5;Senior;Satisfied;Cheapest possible Slot;13:00:00;True;10;10:30:00;11:00:00;cheap
+34;1;17;Student;Satisfied;Cheapest possible Slot;18:00:00;True;16;13:30:00;14:00:00;cheap
+35;16;17;Stay-at-Home;Satisfied;Cheapest possible Slot;16:30:00;True;23;17:00:00;17:30:00;normal
+36;13;8;Student;Very Satisfied;Suitable Slot;12:00:00;True;24;17:30:00;18:00:00;normal
+37;7;18;Student;Very Satisfied;Suitable Slot;17:00:00;True;25;18:00:00;18:30:00;normal
+38;14;5;Business;Very Dissatisfied;Willing to change, but no Slot available;20:00:00;True;;;;
+39;5;19;Senior;Satisfied;Cheapest possible Slot;10:30:00;True;14;12:30:00;13:00:00;cheap
+40;16;20;Senior;Satisfied;Cheapest possible Slot;12:30:00;True;5;08:00:00;08:30:00;cheap
+41;2;7;Stay-at-Home;Very Dissatisfied;No Cheap Slot, but customer was willing to change;11:30:00;True;;;;
+42;14;19;Senior;Satisfied;Cheapest possible Slot;10:00:00;True;6;08:30:00;09:00:00;normal
+43;15;17;Business;Very Dissatisfied;Willing to change, but no Slot available;06:00:00;True;;;;
+44;19;8;Senior;Satisfied;Cheapest possible Slot;14:30:00;True;7;09:00:00;09:30:00;cheap
+45;11;17;Senior;Satisfied;Cheapest possible Slot;14:30:00;True;22;16:30:00;17:00:00;cheap
+46;12;9;Stay-at-Home;Satisfied;Cheapest possible Slot;10:00:00;True;24;17:30:00;18:00:00;cheap
+47;9;17;Student;Very Satisfied;Suitable Slot;13:00:00;True;27;19:00:00;19:30:00;normal
+48;8;8;Business;Very Dissatisfied;Willing to change, but no Slot available;06:30:00;True;;;;
+49;11;12;Business;Very Satisfied;Suitable Slot;20:30:00;True;29;20:00:00;20:30:00;cheap
+50;7;4;Business;Very Dissatisfied;Willing to change, but no Slot available;06:30:00;True;;;;
+51;8;4;Senior;Satisfied;Cheapest possible Slot;13:30:00;True;2;06:30:00;07:00:00;cheap
+52;3;15;Stay-at-Home;Very Dissatisfied;Willing to change, but no Slot available;10:30:00;True;;;;
+53;3;1;Stay-at-Home;Very Dissatisfied;Willing to change, but no Slot available;09:30:00;True;;;;
+54;7;1;Senior;Very Dissatisfied;No Cheap Slot, but customer was willing to change;10:00:00;True;;;;
+55;8;9;Business;Very Dissatisfied;Willing to change, but no Slot available;07:30:00;True;;;;
+56;3;5;Senior;Very Dissatisfied;No Cheap Slot, but customer was willing to change;13:00:00;True;;;;
+57;18;8;Business;Very Dissatisfied;Willing to change, but no Slot available;06:30:00;True;;;;
+58;8;11;Business;Very Dissatisfied;Willing to change, but no Slot available;06:30:00;True;;;;
+59;10;20;Student;Satisfied;Cheapest possible Slot;11:00:00;True;30;20:30:00;21:00:00;cheap
+60;17;8;Business;Very Dissatisfied;Willing to change, but no Slot available;07:00:00;True;;;;
+61;17;13;Business;Very Dissatisfied;Willing to change, but no Slot available;20:00:00;True;;;;
+62;14;12;Stay-at-Home;Very Dissatisfied;No Cheap Slot, but customer was willing to change;09:30:00;True;;;;
+63;7;10;Senior;Satisfied;Cheapest possible Slot;13:30:00;True;18;14:30:00;15:00:00;cheap
+64;20;8;Stay-at-Home;Very Dissatisfied;Willing to change, but no Slot available;10:30:00;True;;;;
+65;1;5;Senior;Very Dissatisfied;No Cheap Slot, but customer was willing to change;12:00:00;True;;;;
+66;16;4;Senior;Very Dissatisfied;No Cheap Slot, but customer was willing to change;08:00:00;True;;;;
+67;18;8;Student;Very Dissatisfied;No Cheap Slot, but customer was willing to change;11:30:00;True;;;;
+68;7;11;Stay-at-Home;Satisfied;Cheapest possible Slot;08:00:00;True;12;11:30:00;12:00:00;cheap
+69;13;9;Student;Very Dissatisfied;Willing to change, but no Slot available;15:00:00;True;;;;
+70;9;20;Senior;Very Dissatisfied;No Cheap Slot, but customer was willing to change;07:30:00;True;;;;
