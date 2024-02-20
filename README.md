@@ -1,4 +1,4 @@
-# Flexible-Slotting-of-Customer-Time-Winows
+# Flexible-Slotting-of-Customer-Time-Windows
 All python files contained in this repository have been implemented in the Python 3.11 version. As DIE PyCharm was used. 
 
 ## 1. Running the Application
